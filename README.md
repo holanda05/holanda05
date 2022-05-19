@@ -1,7 +1,6 @@
-### Oiii eu sou a Gabriela de Holanda Simões, Programadora!
+### Oi me chamo Gabriela, trabalho com  Programadora!
 <div align="center">
   <a href="https://github.com/holanda05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=holanda05&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
    <img align="right" alt="Gabi-gif"  height="150" width="150" src="https://user-images.githubusercontent.com/56896676/169415028-3cd69dec-85eb-4786-abfd-6147902c3a58.png"/>
 </div>
 <div style="display: inline_block"><br>
