@@ -2,16 +2,16 @@
 <div align="center">
   <a href="https://github.com/holanda05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=holanda05&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holanda05&layout=compact&langs_count=7&theme=jolly"/>
+   <img align="right" alt="Gabi-gif"  height="150" width="150" src="https://user-images.githubusercontent.com/56896676/169415028-3cd69dec-85eb-4786-abfd-6147902c3a58.png"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Gabi-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Gabi-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img align="center" alt="Gabi-Apple" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   <img align="center" alt="Gabi-AndroidStudio" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="Gabi-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="right" alt="Gabi-gif" src="https://discordapp.com/channels/968283379999080489/968284263646629888/976246463564750899"/>
+  <img align="center" alt="Gabi-Apple" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+
 </div>
   
   ##
