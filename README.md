@@ -1,4 +1,4 @@
-### Oi me chamo Gabriela, trabalho como Programadora!
+### Oi me chamo Gabriela de Holanda
 <div align="center">
   <a href="https://github.com/holanda05">
    <img align="right" alt="Gabi-gif"  height="150" width="150" src="https://user-images.githubusercontent.com/56896676/169415028-3cd69dec-85eb-4786-abfd-6147902c3a58.png"/>
@@ -9,7 +9,6 @@
   <img align="center" alt="Gabi-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   <img align="center" alt="Gabi-AndroidStudio" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="Gabi-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Gabi-Apple" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 
 </div>
   
