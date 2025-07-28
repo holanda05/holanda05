@@ -1,5 +1,5 @@
 ## Oi! Me chamo Gabriela de Holanda
-Cloud Infrastructure Enthusiast ☁️ | Backup & Recovery com Veeam 💾 | Programadora 💻
+Cloud Infrastructure  ☁️ | Backup & Recovery com Veeam 💾 | Programadora 💻
 
 <div align="center">
   <a href="https://github.com/holanda05">
