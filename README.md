@@ -1,4 +1,6 @@
-### Oi me chamo Gabriela de Holanda
+## Oi me chamo Gabriela de Holanda
+Cloud Infrastructure Enthusiast ☁️ | Backup & Recovery com Veeam 💾 | Programadora 💻
+
 <div align="center">
   <a href="https://github.com/holanda05">
    <img align="right" alt="Gabi-gif"  height="150" width="150" src="https://user-images.githubusercontent.com/56896676/169415028-3cd69dec-85eb-4786-abfd-6147902c3a58.png"/>
