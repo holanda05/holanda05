@@ -1,4 +1,4 @@
-## Oi me chamo Gabriela de Holanda
+## Oi! Me chamo Gabriela de Holanda
 Cloud Infrastructure Enthusiast ☁️ | Backup & Recovery com Veeam 💾 | Programadora 💻
 
 <div align="center">
